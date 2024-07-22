@@ -69,9 +69,6 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
             shareButton = itemView.findViewById(R.id.journal_row_share_button);
 
             shareButton.setOnClickListener(v -> {
-
-                // onClick()
-                // Sharing the Post....
             });
 
         }
